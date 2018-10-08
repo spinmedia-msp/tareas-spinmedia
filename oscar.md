@@ -4,13 +4,13 @@
 Revisión de problemas en el servicio de corte, pruebas y cursos de nuevas herramientas.
 
 [trabajo_diario.md]
-https://github.com/spinmedia-msp/elecc-node-ftp-release
+https://github.com/spinmedia-msp/elecc-node-ftp-release/blob/master/TRABAJO_DIARIO.md
 
 ## 05-10-2018
 Montaje de equipos indra, instalaciones linux en hp, revisiones varias de proyectos electorales
 
 [trabajo_diario.md]
-https://github.com/spinmedia-msp/elecc-node-ftp-release
+https://github.com/spinmedia-msp/elecc-node-ftp-release/blob/master/TRABAJO_DIARIO.md
 
 ## 04-10-2018
 Revisión con Maria de estructura básica de la difusión. Funcionamiento de "ejs" contra "pug".
@@ -18,4 +18,4 @@ Revisión con Maria de estructura básica de la difusión. Funcionamiento de "ej
 Creación de ficheros js de registros de Noche y Partidos heredados de las primeras pruebas.
 
 [trabajo_diario.md]
-https://github.com/spinmedia-msp/elecc-node-ftp-release
+https://github.com/spinmedia-msp/elecc-node-ftp-release/blob/master/TRABAJO_DIARIO.md
