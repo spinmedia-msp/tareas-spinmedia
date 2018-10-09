@@ -6,6 +6,8 @@ Reunión de Seguimiento
 Levantado proyecto de actualización via NODE.
 Busqueda del modo de autoreconexión de amqp (rabbitmq) de forma autonoma
 
+https://github.com/spinmedia-msp/elecc-node-updater-release.git
+
 ## 08-10-2018
 Revisión de problemas en el servicio de corte, pruebas y cursos de nuevas herramientas.
 
