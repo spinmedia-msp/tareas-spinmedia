@@ -1,5 +1,11 @@
 # Tareas Oscar
 
+## 09-10-2018
+Revisión de problemas en el servicio de corte, llenado de disco duro.
+Reunión de Seguimiento
+Levantado proyecto de actualización via NODE.
+Busqueda del modo de autoreconexión de amqp (rabbitmq) de forma autonoma
+
 ## 08-10-2018
 Revisión de problemas en el servicio de corte, pruebas y cursos de nuevas herramientas.
 
