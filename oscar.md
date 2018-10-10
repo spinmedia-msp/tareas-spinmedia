@@ -1,5 +1,10 @@
 # Tareas Oscar
 
+## 10-10-2018
+Agrupacin de proyectos demos en un repositorio general y borrado de repositorios sueltos.
+
+https://github.com/spinmedia-msp/oscar-pruebas-electorales
+
 ## 09-10-2018
 Revisión de problemas en el servicio de corte, llenado de disco duro.
 Reunión de Seguimiento
