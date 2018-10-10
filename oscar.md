@@ -1,7 +1,7 @@
 # Tareas Oscar
 
 ## 10-10-2018
-Agrupacin de proyectos demos en un repositorio general y borrado de repositorios sueltos.
+Agrupación/Revisión de proyectos demos en un repositorio general y borrado de repositorios sueltos.
 
 https://github.com/spinmedia-msp/oscar-pruebas-electorales
 
