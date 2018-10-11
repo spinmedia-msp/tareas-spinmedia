@@ -5,6 +5,8 @@ Agrupación/Revisión de proyectos demos en un repositorio general y borrado de 
 
 https://github.com/spinmedia-msp/oscar-pruebas-electorales
 
+Solución para reconexiones vía amqp, puesta en marcha del proyecto de actualiación y primeras pruebas
+
 ## 09-10-2018
 Revisión de problemas en el servicio de corte, llenado de disco duro.
 Reunión de Seguimiento
