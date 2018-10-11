@@ -1,5 +1,12 @@
 # Tareas Oscar
 
+## 11-10-2018
+Revisión de errores de rendimiento de node el proceso de corte.
+
+Error tipo (too manay files open) - sustitición de biblioteca nativa fs por fs-graceful.
+
+Nuevas pruebas
+
 ## 10-10-2018
 Agrupación/Revisión de proyectos demos en un repositorio general y borrado de repositorios sueltos.
 
