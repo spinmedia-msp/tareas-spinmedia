@@ -1,4 +1,10 @@
 # Tareas María
+
+## 14/10/2018
+
+* Ejemplo template literals vs Pug/EJS. Enlace a la información de la prueba: https://github.com/spinmedia-msp/difusion_electron_release/blob/maria/app/assets/js/template_literals.md
+
+
 ## 10/10/2018
 
 * Sobre el proyecto de difusion_electron_release: https://github.com/spinmedia-msp/difusion_electron_release/blob/maria/app/Maquetas.md
