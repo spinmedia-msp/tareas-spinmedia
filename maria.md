@@ -1,5 +1,10 @@
 # Tareas María
 
+## 15/10/2018
+* Pruebas fallidas con del mapa con la librería OpenLayers. Lo he intentado sobre la maqueta arrancando un servidor y me aparecen las flechas y no da error pero no se pinta el mapa. Sobre el electron de nacho no he sido capaz de momento.
+* Proceso de mejora de los scss. Cada vez más ordenado y más sencillo de modificar desde el archivo _variables.scss.
+
+
 ## 14/10/2018
 
 * Ejemplo template literals vs Pug/EJS. Enlace a la información de la prueba: https://github.com/spinmedia-msp/difusion_electron_release/blob/maria/app/assets/js/template_literals.md
