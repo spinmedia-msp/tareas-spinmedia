@@ -1,5 +1,12 @@
 # Tareas David
 
+## 16-10-2018
+
+Actualizacion componetes
+
+
+https://github.com/spinmedia-msp/aplicacionDescarga
+
 ## 15-10-2018
 
 Actualizacion full menu y modal
