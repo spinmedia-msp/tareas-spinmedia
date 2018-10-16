@@ -1,5 +1,20 @@
 # Tareas Oscar
 
+
+## 16-10-2018
+Electron WebViewer, ajuste de parametros de entrada compatible con el formato de venta de msp. Proyecto .git para clonar en instalaciones de msp si se requiere.
+
+Core Msp, busca la existencia de Electron Viewer y en caso afirmativo lanzará todas las web por esta vía.
+Actualización y pruebas en 'mspdemo'
+
+https://github.com/spinmedia-msp/electron-msp-webview
+
+Arranque y lanzador del 'cortados de ficheros' sobre un docker de forma autonoma y respondiendo a los ficheros que entran desde un segundo equipo. (simulación indra 100% fiable)
+
+## 15-10-2018
+Revisión de performance en equipos. Control de conexiones a base de datos, revisión de conexiones multiples. Software Linux para control de performance provocando un uso de CPU 100% de forma controlada.
+Creación de Electron WebViewer para msp.
+
 ## 11-10-2018
 Revisión de errores de rendimiento de node el proceso de corte.
 
