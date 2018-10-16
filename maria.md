@@ -1,5 +1,10 @@
 # Tareas María
 
+## 16/10/2018
+* Nuevos intentos fallidos con la libreria Openlayers. Ya sobre electron pero sigue sin pintar el mapa.
+* Estilos en Prototipo maqueta difusion en proceso de mejora. Mañana voy a hacer estilo genérico pantalla vertical y estilo genérico de barras verticales. 
+* Mañana subo los nuevos estilos sobre el ejemplo de nacho que lo va a subir ya con el pug.
+
 ## 15/10/2018
 * Pruebas fallidas con del mapa con la librería OpenLayers. Lo he intentado sobre la maqueta arrancando un servidor y me aparecen las flechas y no da error pero no se pinta el mapa. Sobre el electron de nacho no he sido capaz de momento.
 * Proceso de mejora de los scss. Cada vez más ordenado y más sencillo de modificar desde el archivo _variables.scss.
