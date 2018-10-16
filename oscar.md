@@ -20,6 +20,9 @@ https://github.com/spinmedia-msp/elecc2019-dockers/blob/master/comandos_basicos_
 
 https://docs.docker.com/develop/sdk/
 
+Automatización desde node:
+https://github.com/apocas/dockerode
+
 ## 15-10-2018
 Revisión de performance en equipos. Control de conexiones a base de datos, revisión de conexiones multiples. Software Linux para control de performance provocando un uso de CPU 100% de forma controlada.
 Creación de Electron WebViewer para msp.
