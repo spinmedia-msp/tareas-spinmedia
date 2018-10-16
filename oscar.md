@@ -10,6 +10,7 @@ Actualización y pruebas en 'mspdemo'
 https://github.com/spinmedia-msp/electron-msp-webview
 
 Arranque y lanzador del 'cortados de ficheros' sobre un docker de forma autonoma y respondiendo a los ficheros que entran desde un segundo equipo. (simulación indra 100% fiable)
+
 # Guía de comandos básicos de linux (entorno debían pero bastante generalista)
 Todo el mundo debería tener unos conocimientos mínimos
 
