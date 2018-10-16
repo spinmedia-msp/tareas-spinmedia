@@ -16,6 +16,10 @@ Todo el mundo debería tener unos conocimientos mínimos
 
 https://github.com/spinmedia-msp/elecc2019-dockers/blob/master/comandos_basicos_linux.md
 
+## Revisión de API Dokcer para automatizacin de tares y control de estados
+
+https://docs.docker.com/develop/sdk/
+
 ## 15-10-2018
 Revisión de performance en equipos. Control de conexiones a base de datos, revisión de conexiones multiples. Software Linux para control de performance provocando un uso de CPU 100% de forma controlada.
 Creación de Electron WebViewer para msp.
