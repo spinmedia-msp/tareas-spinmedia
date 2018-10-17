@@ -1,5 +1,11 @@
 # Tareas María
 
+## 17/10/2018
+* Esta noche subo los último intentos de anoche con el openlayers desde casa. Pero sigue sin verse.
+* Le he pasado el ejemplo del parlamento con el Chartjs a Nacho.
+* Ya están las pantillas en el pug de todos los casos posibles de presentación de datos en difusión noche.
+* Estoy con las pantallas verticales de presentación de datos: estoy intentando hacerlo con la misma plantilla para que sólo sea cuestión de cambiar el tamaño de la pantalla.
+
 ## 16/10/2018
 * Nuevos intentos fallidos con la libreria Openlayers. Ya sobre electron pero sigue sin pintar el mapa.
 * Estilos en Prototipo maqueta difusion en proceso de mejora. Mañana voy a hacer estilo genérico pantalla vertical y estilo genérico de barras verticales. 
