@@ -7,6 +7,8 @@ https://github.com/spinmedia-msp/elecc-node-ftp-release/blob/master/python/bucle
 
 El simulador se deberá lanzar desde un equipo externo a los servidores para que el flujo sea una simulación correcta y también validar de esta forma el docker-sftp
 
+Añadido de nombre fijo a los dockers y variables de entorno para parametrizar y depurar mejor los log
+
 ## 16-10-2018
 Electron WebViewer, ajuste de parametros de entrada compatible con el formato de venta de msp. Proyecto .git para clonar en instalaciones de msp si se requiere.
 
