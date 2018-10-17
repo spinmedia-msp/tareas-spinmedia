@@ -1,5 +1,7 @@
 # Tareas Oscar
-
+## 17-10-2018
+Mejoras en el script-python de simulación de envíos indra.
+Se parametriza y se cuadran los registros en redis para la coincidencia de envíos y errores.
 
 ## 16-10-2018
 Electron WebViewer, ajuste de parametros de entrada compatible con el formato de venta de msp. Proyecto .git para clonar en instalaciones de msp si se requiere.
