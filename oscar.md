@@ -22,7 +22,7 @@ Todo el mundo debería tener unos conocimientos mínimos
 
 https://github.com/spinmedia-msp/elecc2019-dockers/blob/master/comandos_basicos_linux.md
 
-## Revisión de API Dokcer para automatizacin de tares y control de estados
+### Revisión de API Dokcer para automatizacin de tares y control de estados
 
 https://docs.docker.com/develop/sdk/
 
