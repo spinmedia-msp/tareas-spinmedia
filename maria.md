@@ -1,5 +1,11 @@
 # Tareas María
 
+## 18/10/2018
+* Me di cuenta ayer de que no necesitamos varias plantillas de item. Con quitar los elementos correspondientes en cada caso es suficiente. He hecho un ejemplo en mi maqueta. https://github.com/spinmedia-msp/maria Entre la línea 253 y 269 del archivo "dfh_noche_barras_comparativa.html". Seguro que con forEach se puede hacer más bonito el código. Lo voy a colocar ahora en el proyecto de Electrón y voy a eliminar las plantillas. Con la plantilla item_barras_compara, que lo tiene todo, debería ser suficiente. Aunque tengo que probar si borrando "datos-comparativos" también borra los hijos.
+
+* Anoche no pude subir lo del OpenLayers. Pero vaya, misterio ninguno. El bundle de openlayers en el electron: https://openlayers.org/en/latest/doc/tutorials/bundle.html  Yo hice un cerate window para probar el mapa sólo.
+Es una guarrería la que lía con un archivo js kilométrico de mucho cuidado. Al hacer el npm start te crea un servidor localhost:1234. En cualquier caso tampoco lo he logrado ver pintado. Y le he dado un millón de vueltas.
+
 ## 17/10/2018
 * Esta noche subo los último intentos de anoche con el openlayers desde casa. Pero sigue sin verse.
 * Le he pasado el ejemplo del parlamento con el Chartjs a Nacho.
