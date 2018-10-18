@@ -1,9 +1,14 @@
 # Tareas Oscar
+
+## 18-10-2018
+Reinstalación de CentOs7. Revisin de documentacin del instalador
+  https://github.com/spinmedia-msp/elecc2019-dockers/blob/master/instalacionesCentos.md
+
 ## 17-10-2018
 Mejoras en el script-python de simulación de envíos indra.
 Se parametriza y se cuadran los registros en redis para la coincidencia de envíos y errores.
 
-https://github.com/spinmedia-msp/elecc-node-ftp-release/blob/master/python/bucle_sftp.md
+    https://github.com/spinmedia-msp/elecc-node-ftp-release/blob/master/python/bucle_sftp.md
 
 El simulador se deberá lanzar desde un equipo externo a los servidores para que el flujo sea una simulación correcta y también validar de esta forma el docker-sftp
 
