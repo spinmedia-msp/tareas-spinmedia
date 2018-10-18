@@ -1,7 +1,7 @@
 # Tareas Oscar
 
 ## 18-10-2018
-Reinstalación de CentOs7. Revisin de documentacin del instalador
+Reinstalación de CentOs7. Revisin de documentación del instalador
 
   https://github.com/spinmedia-msp/elecc2019-dockers/blob/master/instalacionesCentos.md
 
