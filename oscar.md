@@ -9,7 +9,7 @@ Reinstalación de CentOs7. Revisin de documentación del instalador
 Mejoras en el script-python de simulación de envíos indra.
 Se parametriza y se cuadran los registros en redis para la coincidencia de envíos y errores.
 
-    https://github.com/spinmedia-msp/elecc-node-ftp-release/blob/master/python/bucle_sftp.md
+  https://github.com/spinmedia-msp/elecc-node-ftp-release/blob/master/python/bucle_sftp.md
 
 El simulador se deberá lanzar desde un equipo externo a los servidores para que el flujo sea una simulación correcta y también validar de esta forma el docker-sftp
 
