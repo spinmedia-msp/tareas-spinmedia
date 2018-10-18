@@ -2,6 +2,7 @@
 
 ## 18-10-2018
 Reinstalación de CentOs7. Revisin de documentacin del instalador
+
   https://github.com/spinmedia-msp/elecc2019-dockers/blob/master/instalacionesCentos.md
 
 ## 17-10-2018
