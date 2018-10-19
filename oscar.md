@@ -1,5 +1,9 @@
 # Tareas Oscar
 
+## 19-10-2018
+pruebas fabric y Ansible.
+Reunión Seguimiento
+
 ## 18-10-2018
 Reinstalación de CentOs7. Revisin de documentación del instalador
 
