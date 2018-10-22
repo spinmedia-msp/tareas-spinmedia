@@ -1,5 +1,9 @@
 # Tareas María
 
+## 20/10/2018
+* Item noche con caja que crece de background y coge la altura de la que tiene los datos. Se adapta al tamaño del contenido.
+* Queda por resolver el alto del logo y el apilado de items en el contenedor si las cajas son de tamño variable.
+
 ## 19/10/2018
 * Para que el animejs interprete correctamente la altura de la primera barra animada es necesario introducir un div vacío e invisible en el primer if de la función pintadoLista_noche (en el proyecto del que dispongo es la línea 238 de app_difusion.js):
 ``` $('#ListaPartidos').append('<div style="height:1px; visibility: hidden;">div de relleno</div>');  ``` 
