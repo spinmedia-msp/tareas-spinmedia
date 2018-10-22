@@ -3,14 +3,16 @@
 ## 22-10-2018
 
 Repaso y estudio de los objetos singleton en node (basicamente no existen como tal).
-Estuduio del comportamiento de los require y de sus ciclo de vida.
+Estuduio del comportamiento de los require y de sus ciclos de vida.
+
 ### problema de conexiones mongodb y saturación de envíos sobre el servidor
-Modelo de autoreconxión MongoDb con Cero Buffer en caso de desconexión.
+Modelo de autoreconexión MongoDb con Cero Buffer en caso de desconexión.
 Resuelto y operativo para controlar las conexiones y las caidas sin dejar buffer de querys.
 
 https://github.com/spinmedia-msp/oscar-pruebas-electorales/tree/master/control-conexiones-mongo
 
 Esta operativa resuelve uno de los misterios de las conexiones multiples sobre mongodb.
+Se implementa en la Difusin y se pone a prueba.
 
 ## 19-10-2018
 pruebas fabric y Ansible.
