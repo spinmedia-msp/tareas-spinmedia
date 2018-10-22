@@ -1,5 +1,10 @@
 # Tareas María
 
+## 19/10/2018
+* Para que el animejs interprete correctamente la altura de la primera barra animada es necesario introducir un div vacío e invisible en el primer if de la función pintadoLista_noche (en el proyecto del que dispongo es la línea 238 de app_difusion.js):
+``` $('#ListaPartidos').append('<div style="height:1px; visibility: hidden;">div de relleno</div>');  ``` 
+``` //este div es un elemento invisible para que el primer elemento de la lista de items tenga una altura correcta.```
+
 ## 18/10/2018
 * Pantalla vertical hecha. Estoy con los css de la adaptación de pantallas. Ya se adapta y es proporcianal. No tiene tamaños fijos. Problema alto item sin resolver. Ese valor es fijo:
 https://github.com/spinmedia-msp/maria/blob/master/PROTOTIPO_MAQUETA_DIFUSION/pantallas/difusion/noche/pantalla_vertical.md
