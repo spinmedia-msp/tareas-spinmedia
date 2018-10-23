@@ -1,6 +1,10 @@
 # Tareas María
 
-## 20/10/2018
+## 23/10/2018
+* Altura variable de los items resuelta en el branch Maria_02 del repositorio Difusion_electron_release. Código comentado entre las líneas 334 y 375 de app_difusion.js
+* Ya he independizado uno de los archivos js de las animaciones. Hay que consensuar la nomenclatura y la división de los mismos. Cuando tengáis tiempo.
+
+## 22/10/2018
 * Item noche con caja que crece de background y coge la altura de la que tiene los datos. Se adapta al tamaño del contenido.
 * Queda por resolver el alto del logo y el apilado de items en el contenedor si las cajas son de tamño variable.
 
