@@ -10,6 +10,8 @@ Creación de sistema de seguimiento hash del .dat
 
 Creación de documentación para seguimiento de estado en los servidores carpeta /home/elecciones/recibido
 
+https://github.com/spinmedia-msp/test-electorales/blob/master/script%26ejemplos/revision_directorio_recibidos.md
+
 
 ## 22-10-2018
 
