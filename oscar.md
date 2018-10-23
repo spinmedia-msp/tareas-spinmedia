@@ -2,6 +2,11 @@
 
 ## 23-10-2018
 
+[previsto] Revisión de Git Server como Docker y pruebas
+[previsto] Revisión de resion.io
+
+## 23-10-2018
+
 Subida de repositorio de mapas sobre rm2all.com
 
 Montaje de docker nginx sobre servidores para ficheros estáticos
