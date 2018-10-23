@@ -4,6 +4,8 @@
 
 [previsto] Revisión de Git Server como Docker y pruebas
 
+https://www.linux.com/learn/how-run-your-own-git-server
+
 
 [previsto] Revisión de resion.io
 
