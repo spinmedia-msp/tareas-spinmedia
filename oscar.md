@@ -1,5 +1,12 @@
 # Tareas Oscar
 
+## 23-10-2018
+
+Subida de repositorio de mapas sobre rm2all.com
+Montaje de docker nginx sobre servidores para ficheros estáticos
+Creación de sistema de seguimiento hash del .dat
+
+
 ## 22-10-2018
 
 Repaso y estudio de los objetos singleton en node (basicamente no existen como tal).
