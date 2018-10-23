@@ -3,8 +3,12 @@
 ## 23-10-2018
 
 Subida de repositorio de mapas sobre rm2all.com
+
 Montaje de docker nginx sobre servidores para ficheros estáticos
+
 Creación de sistema de seguimiento hash del .dat
+
+Creación de documentación para seguimiento de estado en los servidores carpeta /home/elecciones/recibido
 
 
 ## 22-10-2018
