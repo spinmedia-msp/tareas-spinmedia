@@ -6,6 +6,9 @@
 
 https://www.linux.com/learn/how-run-your-own-git-server
 
+Centos7
+https://gist.github.com/ch3nkula/73a5f25fc0348597df368283e0fcc437
+
 
 [previsto] Revisión de resion.io
 
