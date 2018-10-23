@@ -3,6 +3,8 @@
 ## 23-10-2018
 
 [previsto] Revisión de Git Server como Docker y pruebas
+
+
 [previsto] Revisión de resion.io
 
 ## 23-10-2018
