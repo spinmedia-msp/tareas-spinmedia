@@ -1,5 +1,12 @@
 # Tareas María
 
+## 24/10/2018 
+* Leyenda independizada y barras animadas redondeadas.
+https://github.com/spinmedia-msp/difusion_electron_release/tree/maria_02
+* Hay que pintar el gráfico del parlamento con forma de herradura. La librería chartjs no dispone de ningún parámetro para pintar esa forma de gráfico. En la web de elecciones tienen una ejemplo resuelto pero sin animación. Parece que está hecho con la librería https://www.flotcharts.org/flot/examples/ pero es de hace 3 años. Me he descargado el archivo:
+https://github.com/spinmedia-msp/difusion_electron_release/blob/maria_02/app/assets/js/ejemplo_grafico_herradura_2015.js
+Tendremos que implementar algo así para el chartjs.
+
 ## 23/10/2018
 * Altura variable de los items resuelta en el branch Maria_02 del repositorio Difusion_electron_release. Código comentado entre las líneas 334 y 375 de app_difusion.js
 * Ya he independizado uno de los archivos js de las animaciones. Hay que consensuar la nomenclatura y la división de los mismos. Cuando tengáis tiempo.
