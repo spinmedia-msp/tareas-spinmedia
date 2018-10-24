@@ -1,16 +1,23 @@
 # Tareas Oscar
 
-## 23-10-2018
+## 25-10-2018
 
-[previsto] Revisión de Git Server como Docker y pruebas
+[previsto] Proyecto paralelo de actualización vía node con sistema git sobre windows/linux cliente
+[previsto] Revisión de resion.io
+
+
+## 24-10-2018
+
+Revisión de Git Server como Docker y pruebas
 
 https://www.linux.com/learn/how-run-your-own-git-server
+
+Documentado en el proyecto de test
+Queda automatizado sobre git la actualización de un repositorio sin peticin de claves ssh
 
 Centos7
 https://gist.github.com/ch3nkula/73a5f25fc0348597df368283e0fcc437
 
-
-[previsto] Revisión de resion.io
 
 ## 23-10-2018
 
