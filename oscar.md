@@ -3,6 +3,7 @@
 ## 25-10-2018
 
 [previsto] Proyecto paralelo de actualización vía node con sistema git sobre windows/linux cliente
+[documentacion y presentacion] gitkraken ui
 [previsto] Revisión de resion.io
 
 
