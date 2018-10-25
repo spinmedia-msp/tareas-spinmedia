@@ -1,10 +1,20 @@
 # Tareas Oscar
+## 26-10-2018
+
+[previsto] consolidación del actualizador mezclando las 2 técnicas (descompresión y git)
+[documentacion y presentacion] gitkraken ui
+[previsto] Revisión de resion.io
 
 ## 25-10-2018
 
-[previsto] Proyecto paralelo de actualización vía node con sistema git sobre windows/linux cliente
-[documentacion y presentacion] gitkraken ui
-[previsto] Revisión de resion.io
+Proyecto paralelo de actualización vía node con sistema git sobre windows/linux cliente
+La aplicación queda como una mezcla de la anterior con git
+.
+La primera instalación con todos los (node_modules) se hace con la generación de un .zip global y las actualizaciones posteriores se generan a modo de "pull" usando git de forma automatizada y recogiendo solo los ficheros necesarios.
+
+Los equipos windows requieren de la instalación de Git y correr un pequeño script para enviar su clave rsa de confianza al servidor local que contiene el repositorio .git
+
+El objetivo es conseguir un actualizador con el menor coste posible de red y totalemnte off-line (de internet)
 
 
 ## 24-10-2018
