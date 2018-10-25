@@ -1,5 +1,12 @@
 # Tareas María
 
+## 25/10/2018
+* Alturas de items para comparativa y sin comparativa. 
+* Cálculo correcto de sumatorio de items para el paginado con el margen sumado (He tenido que usar Jquery, incapaz de pescar el margen con Javascript. Sólo me pintaba el margen si estaba puesto en el style de la plantilla a pelo.)
+* Hay que repensar el paginado porque tal y como está hecho no encuentro la manera de identificar el momento previo a que pinte el siguiente item en la pantalla.
+* Plantillas pug portavoz. No las he podido probar. No conseguía ver la pantalla de portavoz en el Electron. Está corrigiéndolo Nacho.
+* Cambios matutinos en las maquetas de portavoz: para César y Patri.
+
 ## 24/10/2018 
 * Leyenda independizada y barras animadas redondeadas.
 https://github.com/spinmedia-msp/difusion_electron_release/tree/maria_02
