@@ -6,7 +6,9 @@ Explicación del error: https://github.com/spinmedia-msp/difusion_electron_relea
 * Error detectado y resuelto: Los Chartjs tienen que estar en el pug (en el archivo que contiene el canvas. Si no se vuelve loco y da error.)
 * Plantilla leyenda parlamento independiente. Explicación de lo que hay que hacer cuando se quite el chartjs aquí:
 https://github.com/spinmedia-msp/difusion_electron_release/blob/archivos_independientes/app/difusion/noche/elementos_noche/leyenda_parlamento_pug.md
-
+* He estado mirando las animaciones del svg y más allá de una animación de opacidad de golpe o por tramos no veo cómo resolverlo. No creo que sea una animación apropiada, la verdad. No tengo muy claro que estoy se vaya a poder resolver de una forma apropiada visualmente. El Chart no muestra una forma de herradura pero la animación es más molona.
+* He corregido las inicializaciones de las animaciones en pintado noche.
+* Hay que repasar todo el tema de las animaciones en la parte de Rueda de prensa.
 
 ## 26/10/2018
 * Proceso de independizar las animaciones en archivos js y cambio de variables y nombres de las funciones. En portavoz da un error y pierde la función lanzaAnimPortavozFormatoDia (lanzaAnimPortavozFormatoDia is not defined). El error salta al cerra la animación y volver a iniciarla pero de forma aleatoria. Lo voy a estudiar.
