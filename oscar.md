@@ -1,9 +1,20 @@
 # Tareas Oscar
-## 26-10-2018
+## 30-10-2018
 
-[previsto] consolidación del actualizador mezclando las 2 técnicas (descompresión y git)
+[previsto] https://verdaccio.org
 [documentacion y presentacion] gitkraken ui
 [previsto] Revisión de resion.io
+
+## 29-10-2018
+
+Finalizado del sistema de actualización completo con modules vía git.
+No compatible de forma simultanea entre windows y linux
+
+## 26-10-2018
+
+consolidación del actualizador mezclando las 2 técnicas (descompresión y git)
+
+
 
 ## 25-10-2018
 
