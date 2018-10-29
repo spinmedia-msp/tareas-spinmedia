@@ -3,6 +3,10 @@
 ## 29/10/2018
 * Error detectado y resuelto. Lo he probado muchas veces y no se ha vuelto a dar el caso. NO SE PUEDEN PONER LAS LLAMADAS A LOS JS DESDE LOS PUG. 
 Explicación del error: https://github.com/spinmedia-msp/difusion_electron_release/blob/archivos_independientes/app/assets/js/app_difusion_portavoz.md
+* Error detectado y resuelto: Los Chartjs tienen que estar en el pug (en el archivo que contiene el canvas. Si no se vuelve loco y da error.)
+* Plantilla leyenda parlamento independiente. Explicación de lo que hay que hacer cuando se quite el chartjs aquí:
+https://github.com/spinmedia-msp/difusion_electron_release/blob/archivos_independientes/app/difusion/noche/elementos_noche/leyenda_parlamento_pug.md
+
 
 ## 26/10/2018
 * Proceso de independizar las animaciones en archivos js y cambio de variables y nombres de las funciones. En portavoz da un error y pierde la función lanzaAnimPortavozFormatoDia (lanzaAnimPortavozFormatoDia is not defined). El error salta al cerra la animación y volver a iniciarla pero de forma aleatoria. Lo voy a estudiar.
