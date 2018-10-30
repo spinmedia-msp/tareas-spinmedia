@@ -1,4 +1,8 @@
 # Tareas María
+## 30/10/2018
+* Corrección de las barras de porcentaje de votos actuales y comparativos.
+* Error detectado en la versión de datos de pruebas en windows. No muestra la primera pantala del carrusel.
+
 
 ## 29/10/2018
 * Error detectado y resuelto. Lo he probado muchas veces y no se ha vuelto a dar el caso. NO SE PUEDEN PONER LAS LLAMADAS A LOS JS DESDE LOS PUG. 
