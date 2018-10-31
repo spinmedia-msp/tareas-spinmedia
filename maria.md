@@ -2,8 +2,9 @@
 
 ## 31/10/2018
 * Preparativos para la paginación en app_portavoz.js en la línea 188.
-* Merge de archivos_independientes sobre master.
+* Merge de archivos_independientes sobre master y subida a master de github
 * Cambio inicialización variables animaciones en rueda de prensa.
+* Nuevo branch sobre difusion_electron_release: animaciones_svg. Los nuevos cambios ahí.
 * Animación parlamento con animejs: Nacho ha encontrado que se pueden hacer animaciones de svg con el animjs. Pero no se pueden animar más que los strokes. He hecho una ñapa de animar muy rápido por opacidad los escaños con un delay. Con anime el código es sencillo. 
 * Ejemplo con animación de golpe: Hay que descomentar la línea 274 de app_difusion.js y comentar de la 275 a la 278 ambas inclusives.
 * Ejemplo de animación por tramos estática: está ahora funcionando. 
