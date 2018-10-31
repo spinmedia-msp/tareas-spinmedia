@@ -3,14 +3,19 @@
 ## 31-10-2018
 
 Montaje de 3 Equipos de Difusión sobre Mate 18.04
+
 [documentacion y presentacion] gitkraken ui
+
 [previsto] Revisión de resion.io
 
 ## 30-10-2018
 
 Revisión de imcopatibilidades Difusion Windows&Linux
+
 Revisión de apertura de servicio
+
 Node y Electron sobre Raspbian
+
 Reunión de Seguimiento
 
 
