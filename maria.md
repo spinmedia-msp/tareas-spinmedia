@@ -1,4 +1,11 @@
 # Tareas María
+
+## 31/10/2018
+* Preparativos para la paginación en app_portavoz.js en la línea 188.
+* Merge de archivos_independientes sobre master.
+* Cambio inicialización variables animaciones en rueda de prensa.
+* Animación parlamento con animejs: archivo anim_difusion_parlamento_completo.js y archivo anim_difusion_parlamento_por_partes.js para ejemplo por partes (para que funcione en estático tiene que estar hecho en un timeline de animejs, pero entiendo que para el ejemplo dinámico habrá que partirlo en varias variables independientes. Cada clase ".anim_" habrá que añadirla dinámicamente, añadirle el número de partido, vincular a cada una los estilos correspondientes en función del índice y el id de partido).
+ 
 ## 30/10/2018
 * Corrección de las barras de porcentaje de votos actuales y comparativos.
 * Error detectado en la versión de datos de pruebas en windows. No muestra la primera pantala del carrusel.
