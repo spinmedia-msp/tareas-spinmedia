@@ -1,5 +1,8 @@
 # Tareas María
 
+# 02/11/2018
+* Cambios estilos tamaños fuentes (todo más grande), fondos nuevos y corrección tamaños logos. Subido al branch animaciones_svg.
+
 ## 31/10/2018
 * Preparativos para la paginación en app_portavoz.js en la línea 188.
 * Merge de archivos_independientes sobre master y subida a master de github
