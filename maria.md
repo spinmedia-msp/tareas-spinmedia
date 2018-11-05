@@ -1,5 +1,8 @@
 # Tareas María
 
+# 05/11/2018
+* Pantallas verticales sobre maqueta difusión. Tengo toda la maqueta descogorciada.
+
 # 02/11/2018
 * Cambios estilos tamaños fuentes (todo más grande), fondos nuevos y corrección tamaños logos. Subido al branch animaciones_svg.
 
