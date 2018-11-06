@@ -1,7 +1,7 @@
 # Tareas María
 
 # 06/11/2018
-* Pantallas verticales. Faltan las de participación y apañar las animaciones.
+* Pantallas verticales. Faltan las de participación y apañar las animaciones. Esán en el repositorio maria.
 
 # 05/11/2018
 * Pantallas verticales sobre maqueta difusión. Tengo toda la maqueta descogorciada.
