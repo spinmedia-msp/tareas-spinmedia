@@ -1,6 +1,6 @@
 # Tareas David
 
-## 31-10-2018
+## 06-11-2018
 
 mapas geojson por municipio  
 https://github.com/spinmedia-msp/mapas_echarts
