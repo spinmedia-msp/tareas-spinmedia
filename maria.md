@@ -1,5 +1,8 @@
 # Tareas María
 
+# 06/11/2018
+* Pantallas verticales. Faltan las de participación y apañar las animaciones.
+
 # 05/11/2018
 * Pantallas verticales sobre maqueta difusión. Tengo toda la maqueta descogorciada.
 
