@@ -2,6 +2,11 @@
 
 ## 31-10-2018
 
+mapas geojson por municipio  
+https://github.com/spinmedia-msp/mapas_echarts
+
+## 31-10-2018
+
 Prueba mapa de calor y ganadores por ci con libreria echarts
 https://github.com/spinmedia-msp/mapas_echarts
 
