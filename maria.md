@@ -1,5 +1,8 @@
 # Tareas María
 
+# 07/11/2018
+* Pantallas de proyector subidas sobre master de difusion_electron_release: Da un error el carrusel de prueba cuando en difusión la primera pantalla es barras. Luego da un error en proyector cuando la pantalla es apertura. Dice que una de las funciones no es una función. Repasar las plantillas pug.
+
 # 06/11/2018
 * Pantallas verticales. Faltan las de participación y apañar las animaciones. Esán en el repositorio maria.
 
