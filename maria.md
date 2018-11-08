@@ -1,5 +1,13 @@
 # Tareas María
 
+# 08/11/2018
+* Mapa echarts sobre difusión. Archivo mapa.js y echarts.min.js en la plantilla pug (no queda más remedio).
+* Nacho ha descubierto el error de único pintado: variable dataTotal tiene que estar definida en los 3 app.js
+* Parlamento de extremos largos actualizado en todas las pantallas.
+* Estaba dando un error la animación del mapa svg. Está comentada. No se va a usar. Se puede borrar.
+* Todos los archivos js están con sus correspondientes parámetros y correctamente inicializados en cada app.
+* Pendiente el parlamento por pasos (lo intentaré como ejercicio el finde aunque lo va a hacer Nacho).
+
 # 07/11/2018
 * Pantallas de proyector subidas sobre master de difusion_electron_release: Da un error el carrusel de prueba cuando en difusión la primera pantalla es barras. Luego da un error en proyector cuando la pantalla es apertura. Dice que una de las funciones no es una función. Repasar las plantillas pug.
 
