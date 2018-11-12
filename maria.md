@@ -3,13 +3,10 @@
 # 12/11/2018
 * He abierto otro branch "estado_cero" para subir las pantallas de estado cero en proyector y difusion. 
 línea 79 y 105 de app_difusion.js 
- ```if ((pantalla == "Barras") || (pantalla == "EstadoCero") || (pantalla == "Datos") || (pantalla == "Parlamento") || (pantalla == "MapaComunidad"))```
- 
- y luego incluido en el switch de la 209: 
+ ```if ((pantalla == "Barras") || (pantalla == "EstadoCero") || (pantalla == "Datos") || (pantalla == "Parlamento") || (pantalla == "MapaComunidad"))``` y luego incluido en el switch de la 209: 
  ```case 'EstadoCero':```
    ```templatePintado = 'difusion/dfh_rp_primerestado.pug';```
- ```break;```
-el archivo de la animación se podrá probar cuando esté preparada la funcionalidad: 
+ ```break;``` el archivo de la animación se podrá probar cuando esté preparada la funcionalidad: 
 anim_estado_cero.js
 
 # 11/11/2018 
