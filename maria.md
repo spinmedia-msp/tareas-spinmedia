@@ -1,5 +1,36 @@
 # Tareas María
 
+# 21/11/2018
+* Arreglo aside sobre función de Nacho(estoy en ello).
+* Estilos módulo info pantalla proyector alineado a la izquierda.
+* PENDIENTES: parlamentos comparativos.
+
+
+# 20/11/2018
+* Función para la asignación del tipo de ámbito. Correcta y comprobada en las tres pantallas: Difusión, Portavoz y Proyector. Salen hasta los distritos. 
+* Estilos módulo info pantalla proyector alineado a la derecha.
+
+# 19/11/2018
+* Corrección función cambiarSize. Está bien pero el cálculo del primer elemento no es correcto si se sale de la caja porque le da un ancho considerablemente mayor. No se va a dar el caso porque tendría que inaugurar la primera lectura del sistema un municipio largo en pantalla pero aún así no logro corregirlo. 
+
+# 17/11/2018
+* Pruebas y cambios del cálculo de barras en las pantallas de día.
+* Cambios pug de datos y variables.
+
+# 16/11/2018
+* Detalles estilos, pugs y animaciones. 
+* No se pueden presentar los asides.
+
+# 15/11/2018
+* Arreglo flechas perdidas. Fue por los cambios de las animaciones del parlamento del día 13. Un path en transparent a nivel global.
+
+# 14/11/2018
+* Viaje y día perdido. Han desaparecido las flechas de las pantallas de día.
+
+# 13/11/2018
+* Arreglo animaciones parlamento paso a paso.
+* Preparación equipo para viaje.
+
 # 12/11/2018
 * He abierto otro branch "estado_cero" para subir las pantallas de estado cero en proyector y difusion. 
 línea 79 y 105 de app_difusion.js 
