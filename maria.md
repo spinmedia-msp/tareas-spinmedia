@@ -1,5 +1,8 @@
 # Tareas María
 
+# 10/12/2018
+* Estoy dividiendo más los scss del proyecto. Añadiendo comentarios y renombrando. Para que sean más accesibles para las modificaciones. Espero acabar mañana desde casa. En cuanto lo tenga lo subo.
+
 # 21/11/2018
 * Arreglo aside sobre función de Nacho(estoy en ello).
 * Estilos módulo info pantalla proyector alineado a la izquierda.
