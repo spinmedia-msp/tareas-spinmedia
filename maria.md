@@ -1,5 +1,11 @@
 # Tareas María
 
+# 12/12/2018
+* Ya he subido a difusion-elecciones-2019 los cambios y la nueva estructura de los archivos scss.
+
+# 11/12/2018
+* No tengo terminadas aún las correcciones de los scss.
+
 # 10/12/2018
 * Estoy dividiendo más los scss del proyecto. Añadiendo comentarios y renombrando. Para que sean más accesibles para las modificaciones. Espero acabar mañana desde casa. En cuanto lo tenga lo subo.
 
